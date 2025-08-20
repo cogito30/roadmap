@@ -40,7 +40,7 @@
 | OPIC | 정보처리기사 | ADP | 전기기사 | AICE |  | 전산세무 1급 |
 | TOEIC Writing | 정보보안기사 |  |  | ADP |  | 은행FP |
 | IELTS | 리눅스마스터(1급) |  |  |  |  | 투자자산운용사 |
-
+
 ## 자격증 사이트
 - [Q-net](https://www.q-net.or.kr/man001.do?gSite=Q)
 - [데이터자격시험](https://www.dataq.or.kr/www/main.do)
