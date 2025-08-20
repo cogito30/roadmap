@@ -50,7 +50,10 @@
 4) 코딩테스트를 통해 알고리즘 활용 연습
 ```
 
-(참고자료)
+
+<details>
+<summary>참고자료</summary>
+  
 - [윤성우의 열혈 자료구조](https://product.kyobobook.co.kr/detail/S000001589149)
 - [이것이 자료구조+알고리즘 with C 언어](https://product.kyobobook.co.kr/detail/S000061585515)
 - [Introduction To Algorithm](https://product.kyobobook.co.kr/detail/S000213683944)
@@ -63,6 +66,7 @@
 - [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)
 - [Solved.ac(Baekjoon Online Judge)](https://solved.ac/en/class)
 - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
+</details>
 
 #### 데이터베이스
 ```
@@ -70,10 +74,14 @@
 2) MYSQL 문법 학습: DDL, DCL, DML, TCL
 ```
 
-(참고자료)
+
+<details>
+<summary>참고자료</summary>
+  
 - [CodeLatte의 데이터베이스 강의](https://www.codelatte.io/courses/database_basic)
 - [TCP School(MySQL)](https://tcpschool.com/mysql/intro)로 SQL 학습
 - [데이터베이스의 원리와 응용(한양대-백현미)](http://www.kocw.net/home/search/kemView.do?kemId=1163794)로 Database 학습
+</details>
 
 #### 네트워크
 ```
@@ -83,12 +91,16 @@
 4) 리눅스마스터(2급/1급) 취득하며 네트워크 명령어 확인
 ```
 
-(참고자료)
+
+<details>
+<summary>참고자료</summary>
+  
 - [그림으로 배우는 네트워크 원리](https://product.kyobobook.co.kr/detail/S000000555413)
 - [후니의 쉽게 쓴 시스코 네트워킹](https://product.kyobobook.co.kr/detail/S000000562247)
 - [김길성의 네트워크 딥다이브](https://product.kyobobook.co.kr/detail/S000216406148)
 - [혼자 공부하는 네트워크](https://product.kyobobook.co.kr/detail/S000212911507)
 - [윤성우의 열혈 TCP/IP 소켓 프로그래밍](https://product.kyobobook.co.kr/detail/S000001589146)
+</details>
 
 #### 운영체제/컴퓨터구조
 ```
@@ -96,10 +108,14 @@
 2) 리눅스마스터(2급/1급) 취득하며 리눅스 명령어 확인
 ```
 
-(참고자료)
+
+<details>
+<summary>참고자료</summary>
+  
 - [혼자 공부하는 컴퓨터 구조+운영체제](https://product.kyobobook.co.kr/detail/S000061584886)
 - [컴퓨터 구조와 운영체제 핵심 노트](https://product.kyobobook.co.kr/detail/S000213378762)
 - [밑바닥부터 만드는 컴퓨팅 시스템](https://product.kyobobook.co.kr/detail/S000201485097)
+</details>
 
 #### BackEnd
 ```
@@ -114,7 +130,10 @@
 8) 대규모 시스템 설계 기초 1, 2 교재 읽기
 ```
 
-(참고자료)
+
+<details>
+<summary>참고자료</summary>
+  
 - [코딩아재](https://www.youtube.com/@codingajae/playlists)
 - [이것이 취업을 위한 백엔드 개발이다.](https://www.youtube.com/playlist?list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv)
 - [boostcourse 풀스택개발](https://www.boostcourse.org/web316)
@@ -126,6 +145,7 @@
 - [데이터베이스 강의를 추천하는 것보다 중요한 것](https://roka88.dev/123)
 - [코드라뗴의 데이터베이스 강의](https://www.codelatte.io/courses/database_basic)
 - [2024 백엔드 개발자 로드맵](https://zero-base.co.kr/event/media_BE_school_roadmap)
+</details>
 
 #### FrontEnd
 ```
@@ -138,7 +158,10 @@
 6) NextJS 학습
 ```
 
-(참고자료)
+
+<details>
+<summary>참고자료</summary>
+  
 - [HTML, CSS, JavaScript: 웹 개발의 핵심](https://www.youtube.com/watch?v=phiSW6Pr-gg)
 - [프론트엔드 입문자를 위한 영상 순서](https://power-oregano-6ec.notion.site/277f2906743742ae8f19b6494581058f)
 - [노마드코더](https://nomadcoders.co/courses)
@@ -147,6 +170,7 @@
 - [브라우저는 어떻게 동작하는가](https://d2.naver.com/helloworld/59361)
 - [프론트 기술 면접](https://www.youtube.com/playlist?list=PLBh_4TgylO6CI4Ezq3OLRRzg2NAn3FLPB)
 - [프론트엔드 성능 최적화 가이드](https://product.kyobobook.co.kr/detail/S000200178292)
+</details>
 
 #### FullStack
 ```
@@ -160,12 +184,16 @@
 7) NodeJS, Express 학습하기
 ```
 
-(참고자료)
+
+<details>
+<summary>참고자료</summary>
+  
 - [생활코딩](https://www.youtube.com/@coohde/playlists)
 - [TCP School](https://tcpschool.com/)
 - [드림코딩](https://www.youtube.com/@dream-coding/playlists)
 - [드림코딩 아카데미](https://academy.dream-coding.com/)
 - [노마드코더](https://nomadcoders.co/courses)
+</details>
 
 #### 참고자료
 - [Developer Roadmap](https://roadmap.sh/)
@@ -174,19 +202,44 @@
 - [신입 개발자 전공 지식 & 기술 면접 백과사전](https://github.com/gyoogle/tech-interview-for-developer)
 
 ## 점수기록
-#### SQLD
+<details>
+<summary>SQLD</summary>
+  
 - 64점(2022.09.30)
-#### 리눅스마스터(2급)
+</details>
+
+<details>
+<summary>리눅스마스터(2급)</summary>
+
 - 1차: (2023.05.02)
 - 2차: 63.75점(2025.01.03)
-#### 네트워크관리사(2급)
+</details>
+
+<details>
+<summary>네트워크관리사(2급)</summary>
+
 - 1차: 88점(2025.02.25)
 - 2차: 89점(2025.04.08)
-#### 정보처리기사
+</details>
+
+<details>
+<summary>정보처리기사</summary>
+
 - 필기: 69점(2024.08.07)
 - 실기 90점(2024.12.11)
-#### 정보보안기사
+</details>
+
+<details>
+<summary>정보보안기사</summary>
+
 - 필기1: 54점(2025.06.20)
 - 필기2:
-#### 리눅스마스터(1급)
+- 실기: 
+</details>
+
+<details>
+<summary>리눅스마스터(1급)</summary>
+
 - 필기:
+- 실기:
+</details>
