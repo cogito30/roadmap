@@ -46,7 +46,9 @@
 4) 1-3의 과정에서 문장 및 단어, 템플릿 암기하기
 ```
 
-(참고자료)
+<details>
+<summary>참고자료</summary>
+
 - [시계토끼제니쌤의 토익 독학용 파트별 핵심강의](https://www.youtube.com/watch?v=CHCq0vh6Frg)
 - [시계토끼제니썜의 토익스피킹 만능문장 모음집](https://www.youtube.com/watch?v=ZzyolBABSIw)
 - [시계토끼제니썜](https://www.youtube.com/@rabbit_jennycha/videos)
@@ -54,6 +56,7 @@
 - [해커스TV의 토익스피킹 500문장](https://www.youtube.com/watch?v=FKPdC5oFQgY)
 - [해커스TV의 토익스피킹 1000문장](https://www.youtube.com/watch?v=C5zdRPnhJFM)
 - [제이크 토익스피킹의 토익스피킹 필수 문장](https://www.youtube.com/playlist?list=PLi5ZeXp0sQKiSwulTYx8SRGSM8M4-o74h)
+</details>
 
 #### TOEIC
 ```
@@ -62,13 +65,17 @@
 3) ETS 토익 정기시험 기출문제집 1000 Vol 4 LC/RC 문제풀고 오답 정리
 ```
 
-(참고자료)
+<details>
+<summary>참고자료</summary>
+
 - [ETS 토익 단기공략 750+ 최신개정판](https://www.youtube.com/playlist?list=PL2mUKRt8sXvja0B8w365qn2tgi0AahED9)
 - [서아썜의 비밀과와 LC 빈출문장 몰아보기](https://www.youtube.com/watch?v=utxj6hRIpeU)
 - [민지원 토익 LC 빈출문장 모음](https://www.youtube.com/watch?v=WU2icLNdgWU)
 - [아무튼 영어](https://www.youtube.com/@%EC%95%84%EB%AC%B4%ED%8A%BC%EC%98%81%EC%96%B4_%EC%B0%A8%EC%84%B1%ED%9D%AC/videos)
 - [해커스 토익 RC Reading 기본서](https://product.kyobobook.co.kr/detail/S000200406668)
 - [해커스 토익 LC Listening 기본서](https://product.kyobobook.co.kr/detail/S000200406673)
+</details>
+
 
 #### TOEIC Writing
 ```
@@ -76,19 +83,25 @@
 2) 파트별 주요 문장 및 단어 암기
 ```
 
-(참고자료)
+<details>
+<summary>참고자료</summary>
+
 - [ETS 토익라이팅 기출 공식대비서](https://product.kyobobook.co.kr/detail/S000000450480)
+</details>
 
 #### OPIC
 ```
 1) 
 ```
 
-(참고자료)
+<details>
+<summary>참고자료</summary>
+
 - [해커스TV의 OPIC 시험 유형 정리](https://www.youtube.com/watch?v=Jj8hzv-j5LE)로 OPIC 시험 유형 파악하기
 - [제인서의 이지오픽: 오픽 필수 문장](https://www.youtube.com/playlist?list=PL_xkJr-3mXFg0MvwjvnV1biI8KEIbpdOW)의 문장 암기
 - [10일 만에 끝내는 해커스 OPIc 오픽 START: Immediate 공략](https://product.kyobobook.co.kr/detail/S000208578134)
 - [10일 만에 끝내는 해커스 OPIc 오픽 Advanced 공략](https://product.kyobobook.co.kr/detail/S000202406853)
+</details>
 
 #### IELTS
 ```
@@ -110,6 +123,13 @@
 </details>
 
 ## 점수기록
+
+<details>
+<summary>TOEIC Speaking</summary>
+- 2024.07.28: IH(140)
+- 2025.08.03: IM3(130)
+</details>
+
 #### TOEIC Speaking
 - 2024.07.28: IH(140)
 - 2025.08.03: IM3(130)
