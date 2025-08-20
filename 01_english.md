@@ -126,22 +126,31 @@
 
 <details>
 <summary>TOEIC Speaking</summary>
+
 - 2024.07.28: IH(140)
 - 2025.08.03: IM3(130)
 </details>
 
-#### TOEIC Speaking
-- 2024.07.28: IH(140)
-- 2025.08.03: IM3(130)
+<details>
+<summary>TOEIC</summary>
 
-#### TOEIC 
 - 2025.09.14: 000(LC: 000, RC: 000)
+</details>
 
-#### TOEIC Writing
-- .
+<details>
+<summary>TOEIC Writing</summary>
 
-#### OPIC
 - .
+</details>
 
-#### IELTS
+<details>
+<summary>OPIC</summary>
+
 - .
+</details>
+
+<details>
+<summary>IELTS</summary>
+
+- .
+</details>
