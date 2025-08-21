@@ -3,22 +3,22 @@
 - 여러 고민과 개인의 경험, 여러의견을 토대로 구축한 로드맵으로 참고자료로만 사용할 것
 
 ## 학습 순서
-#### 1. 영어
+#### 1. [영어](./01_english.md)
 - TOEIC Speaking/Writing -> TOEIC -> IELTS
 - obejct: 여러 공고의 필수조건을 맞추기 위한 최소 기준인 최소목표점수를 달성할 것
 - 학습방법: 교재 하나를 정하고 꾸준히 진행할 것. 단어암기/문장듣기/문장해석을 반복할 것
 
-#### 2. Web
+#### 2. [Web](./02_web.md)
 - Java -> CodingTest -> Database/SQL -> Network/Spring
 - object: 최소한 코딩테스트 수준과 SW 기본 이론, 자주 등장하는 용어는 숙달하고 있어야 함
 - 학습방법: 알고리즘을 통한 코딩테스트 준비의 경우 pseudo code로 연습. Database를 UML로 설계하고 Java/Spring으로 웹개발을 진행하며 파생되는 지식 학습
 
-#### 3. Embedded
+#### 3. [Embedded](./04_embedded.md)
 - C/C++ -> CodingTest -> Arduino -> STM32(Cortex-M)
 - object: 기본 회로이론 및 소자에 대한 이해. datasheet를 읽는 연습. 회로 구성하는 능력. 통신 프로토콜에 대한 이해
 - 학습방법: 회로이론 및 전자회로 -> 마이크로프로세서 -> Arduino -> RaspberryPi -> ARM(Cortex)
 
-#### 4. AI
+#### 4. [AI](./03_ai.md)
 - Python -> CodingTest -> ML/Scikit-Learn -> DL/PyTorch
 - object: 데이터 전처리, 시각화. 논문을 보고 모델의 특성을 파악하고 구현하여 사용할 역량
 - 학습법: 데이터전처리 -> 데이터시각화 -> 데이터분석 -> MLP -> CNN -> RNN -> Transformer -> Multi-Modal -> CV/NLP/RS 심화분야
