@@ -59,8 +59,8 @@
 
 #### 임베디드 기본
 ```
-1) 임베디드 기초 뿌수기 강의 듣기
-2) 제품부터 시작하는 인우의 반도체 CHIP 회로설계 이야기
+1) 제품부터 시작하는 인우의 반도체 CHIP 회로설계 이야기
+2) 임베디드 기초 뿌수기 강의 듣기
 3) OJTube의 임베디드 개발
 4) 회로설계 입문자를 위한 디지털, 아날로그 설계외 실무 Project
 5) 삼코치의 반도체 디지털/아날로그/레이아웃 통합 설계 가이드 교재 읽기
@@ -154,8 +154,38 @@
 - [현대모비스 모빌리티부트캠프](https://likelion.net/event/mobius-bootcamp?utm_source=google&utm_medium=search&utm_campaign=b2bhdmb01_google_search_pcmo_2507_new&utm_content=sitelink_2&utm_term=new_1834_pcmo&gad_source=1&gad_campaignid=22844925721&gbraid=0AAAAACxDLuGfNZVFJikgtlRESTcllc-XR&gclid=CjwKCAjw49vEBhAVEiwADnMbbFfZsAeZisp1EzelVhPMp4nCUKlIb3mc49X8k8u2MhjblEZTDvzJdhoCZQ0QAvD_BwE)
 
 ## 점수기록
-#### 리눅스마스터(1급)
+<details>
+<summary>리눅스마스터(1급)</summary>
 
-#### 정보통신기사
+- 필기:
+- 실기:
+</details>
 
-#### 전기기사
+<details>
+<summary>정보통신기사</summary>
+
+- 필기:
+- 실기:
+</detals>
+
+<details>
+<summary>전기기사</summary>
+
+- 필기:
+- 실기:
+</detals>
+
+<details>
+<summary>컴퓨터시스템기사</summary>
+
+- 필기:
+- 실기:
+</detals>
+
+<details>
+<summary>임베디드기사</summary>
+
+- 필기:
+- 실기:
+</detals>
+
