@@ -31,11 +31,14 @@
 5) 코딩컨벤션: Google Style
 ```
 
-(참고자료)
+<details>
+<summary>참고자료</summary>
+  
 - [C: C언어 코딩 도장](https://product.kyobobook.co.kr/detail/S000200764041)
 - [C: 모두의 코드](https://modoocode.com/231)
 - [C++: 명품 C++ Programming](https://product.kyobobook.co.kr/detail/S000217111234)
 - [C++: 모두의 코드](https://modoocode.com/135)
+</details>
 
 #### 알고리즘
 ```
