@@ -166,26 +166,26 @@
 
 - 필기:
 - 실기:
-</detals>
+</details>
 
 <details>
 <summary>전기기사</summary>
 
 - 필기:
 - 실기:
-</detals>
+</details>
 
 <details>
 <summary>컴퓨터시스템기사</summary>
 
 - 필기:
 - 실기:
-</detals>
+</details>
 
 <details>
 <summary>임베디드기사</summary>
 
 - 필기:
 - 실기:
-</detals>
+</details>
 
