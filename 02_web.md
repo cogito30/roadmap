@@ -208,11 +208,9 @@
 
 - [생활코딩: 웹 애플리케이션 만들기 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)
 - [UXUI 디자인 강의](https://www.youtube.com/playlist?list=PLkbzizJk4Ae815Tj0A8eZMtJSttcNa-Od)
-- [디자인베이스](https://www.youtube.com/@designbase/playlists)
+- [디자인베이스](https://www.youtube.com/@designbase/playlists)
 - [미대교수: 웹디자인개발기능사](https://www.youtube.com/@midae_professor/playlists)
-- [이니미강사: 웹디자인개발기능사](https://www.youtube.com/@leeminiT/playlists)
-- []()
-- []()
+- [이니미강사: 웹디자인개발기능사](https://www.youtube.com/@leeminiT/playlists)
 </details>
 
 #### 참고자료
