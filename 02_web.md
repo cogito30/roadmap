@@ -195,6 +195,26 @@
 - [노마드코더](https://nomadcoders.co/courses)
 </details>
 
+#### 기획 및 디자인
+```
+1) Do it! 웹 사이트 기획 입문
+2) Do it! 웹 디자인 교과서
+3) 웹디자인개발기능사 취득
+4) 기획 프로젝트 진행
+```
+
+<details>
+<summary>참고자료</summary>
+
+- [생활코딩: 웹 애플리케이션 만들기 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)
+- [UXUI 디자인 강의](https://www.youtube.com/playlist?list=PLkbzizJk4Ae815Tj0A8eZMtJSttcNa-Od)
+- [디자인베이스](https://www.youtube.com/@designbase/playlists)
+- [미대교수: 웹디자인개발기능사](https://www.youtube.com/@midae_professor/playlists)
+- [이니미강사: 웹디자인개발기능사](https://www.youtube.com/@leeminiT/playlists)
+- []()
+- []()
+</details>
+
 #### 참고자료
 - [Developer Roadmap](https://roadmap.sh/)
 - [DreamHack](https://dreamhack.io/)
