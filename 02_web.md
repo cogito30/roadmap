@@ -37,6 +37,8 @@
 - [C: 모두의 코드](https://modoocode.com/231)
 - [C++: 명품 C++ Programming](https://product.kyobobook.co.kr/detail/S000217111234)
 - [C++: 모두의 코드](https://modoocode.com/135)
+- [C#: C# 스터디](https://www.csharpstudy.com/)
+- [이것이 C#이다](https://product.kyobobook.co.kr/detail/S000201856223)
 - [Java: 이것이 자바다](https://product.kyobobook.co.kr/detail/S000212853100)
 - [Python: 점프 투 파이썬](https://wikidocs.net/book/1)
 - [JavaScript: ModernJavaScript](https://ko.javascript.info/)
@@ -49,7 +51,6 @@
 2) 알고리즘 학습: 재귀 / 정렬 / 수학(소수, 순열, 조합, LCM, GCD) / 그리디 / 시뮬레이션 / 이분탐색 / DFS, BFS / 백트래킹 / Djkstra / 동적계획법
 4) 코딩테스트를 통해 알고리즘 활용 연습
 ```
-
 
 <details>
 <summary>참고자료</summary>
@@ -108,7 +109,6 @@
 2) 리눅스마스터(2급/1급) 취득하며 리눅스 명령어 확인
 ```
 
-
 <details>
 <summary>참고자료</summary>
   
@@ -129,7 +129,6 @@
 7) 프로젝트로 배우는 데이터베이스 설계 교재 읽기
 8) 대규모 시스템 설계 기초 1, 2 교재 읽기
 ```
-
 
 <details>
 <summary>참고자료</summary>
@@ -158,7 +157,6 @@
 6) NextJS 학습
 ```
 
-
 <details>
 <summary>참고자료</summary>
   
@@ -183,7 +181,6 @@
 6) React 학습
 7) NodeJS, Express 학습하기
 ```
-
 
 <details>
 <summary>참고자료</summary>
