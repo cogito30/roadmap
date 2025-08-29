@@ -105,8 +105,18 @@
 
 #### 운영체제/컴퓨터구조
 ```
-1) OS 학습: CPU Scheduling, DeadLock, Semaphore, Thread, Process, IPC, PCB, Paging, Segmentation, Context Switching, 가상메모리
-2) 리눅스마스터(2급/1급) 취득하며 리눅스 명령어 확인
+자격증: 리눅스마스터(2급/1급)
+- Process/Thread: PCB/TCB, Context Switching, Multi-Processing/Multi-Threading, User-level/Kernel-level
+- CPU Scheduling: Preemptive/Non-Preemptive, FCFS/SJF/Priority Scheduling/Round Robin/Multi-level Queue/Multi-level Feedback Queue, CPU Burst/ IO Brust
+- Synchronization: Critical Section, Mutex/Semaphore, Monitor, Deadlock/발생조건(상호배제, 점유대기, 비선점, 순환대기)/Banker's algorithm
+- Memory Mamagement: Virtual Memory, Paging/Segmentation, Page Table/TLB, Page Fault, 메모리할당 전략, 캐시 메모리/계층 구조
+- File System: 파일 접근 방식, FAT/i-node, Journaling File System, 파일 캐시/버퍼 캐시
+- 입출력: 인터럽트 기반 IO, DMA, Buffering, Spooling, Device Driver
+- System 구조: Kernel, System Call, User Mode/Kernel Mode
+- 동기/비동기, 블록킹/논블록킹
+- 인터럽트 과정
+- 프로세스 상태 전이
+- CISC / RISC
 ```
 
 <details>
